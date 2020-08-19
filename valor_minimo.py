@@ -1,4 +1,4 @@
-# Viendo que numero es mas bajo
+# Viendo el numero mas bajo
 
 """ Encontrar el valor minimo entre 3 valores"""
 
